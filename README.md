@@ -1,2 +1,1 @@
-# .github
-Mindleap OSS Public Profile Repository
+# Mindleap Open Source Project
